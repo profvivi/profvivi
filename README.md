@@ -1,6 +1,6 @@
 # sobre mim
 
-- 👋 olá meu nome é @profvivi
+- 👋 olá meu nome é profvivi
 - :+1: Meu email é profvivips@gmail.com
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
